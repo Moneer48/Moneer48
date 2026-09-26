@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Moneer Ameen 👋
 
-<!--
-**Moneer48/Moneer48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the Faculty of Science, Lebanese University. Focus on software development, Python, JavaScript, and Kotlin.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Tools
+- **Languages:** Python, C, JavaScript, Kotlin, SQL, HTML/CSS
+- **Frameworks & Web:** Flask, Jinja, SQLite
+- **Tools:** Git, VS Code
+
+---
+
+### 🎓 Certifications
+- **CS50x & CS50P** — Harvard University
+- **Google IT Automation with Python** — Coursera
+- **Android Kotlin Basics (Stage 1)** — Sam Droid
+
+---
+
+### 📬 Connect
+- **GitHub:** [Moneer48](https://github.com/Moneer48)
