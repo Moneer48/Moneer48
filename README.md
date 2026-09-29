@@ -1,6 +1,6 @@
 # This is Moneer Ameen :)
 
-Computer Science student at the Faculty of Science, Lebanese University. Focus on software development, Python, JavaScript, and Kotlin.
+Computer Science student at the Faculty of Science, Lebanese University. Focus on software development, Python, C, and Kotlin.
 
 ---
 
