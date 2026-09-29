@@ -12,9 +12,9 @@ Computer Science student at the Faculty of Science, Lebanese University. Focus o
 ---
 
 ### 🎓 Certifications
-- **CS50x & CS50P** — Harvard University
-- **Google Crash Course on Python & Google Using Python to Interact with Operating Systems** — Coursera
-- **Android Kotlin Basics (Stage 1)** — Sam Droid
+- **CS50x 2025 & CS50P in 2026** — Harvard University
+- **Google Crash Course on Python & Google Using Python to Interact with Operating Systems** — Coursera - 2023
+- **Android Kotlin Basics (Stage 1)** — Sam Droid - 2026
 
 ---
 
